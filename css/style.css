@@ -294,8 +294,6 @@ margin-bottom: 8px;
     align-items: center;
     justify-content: center;
     gap:24px; 
-            width: 100%;
-                height: 100%;
 }
 .team-socials-item {
     width: 40px;
@@ -305,6 +303,10 @@ margin-bottom: 8px;
 }
 .team-socials-item a{
         background-color: #4d5ae5;
+}
+.team-socials-item-link {
+                width: 100%;
+                    height: 100%;
 }
 /* Portfolio */
 .portfolio-section{
