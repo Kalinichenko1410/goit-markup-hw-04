@@ -395,3 +395,6 @@ background: #2E2F42;
 .logo-studio-white {
 color: #F4F4FD;
 }
+.footer-main{
+    display: flex;
+}
