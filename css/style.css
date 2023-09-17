@@ -303,6 +303,9 @@ margin-bottom: 8px;
 }
 .team-socials-item a{
         background-color: #4d5ae5;
+        width: 100%;
+            height: 100%;
+            border-radius:50%;
 }
 .team-socials-item-link {
                 width: 100%;
