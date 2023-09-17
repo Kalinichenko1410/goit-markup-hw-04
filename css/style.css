@@ -316,6 +316,9 @@ margin-bottom: 8px;
 .team-socials-item:focus a {
     background-color: #404bbf;
 }
+.social-icon{
+    fill: #f4f4fd;
+}
 /* Portfolio */
 .portfolio-section{
     padding-top: 120px;
