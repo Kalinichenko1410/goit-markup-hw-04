@@ -379,6 +379,8 @@ overflow: hidden;
 position: absolute;
 inset: 0;
 background-color: #4D5AE5;
+width: 360px;
+height: 300px;
 color: #F4F4FD;
 transform: translateY(100%);
 transition: transform 1.5s;
