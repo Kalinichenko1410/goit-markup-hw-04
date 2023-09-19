@@ -344,7 +344,9 @@ color: #434455;
     transition: box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1);;
 }
 .portfolio-item:hover{
-box-shadow:0px 1px 6px rgba(46, 47, 66, 0.08),0px 1px 1px rgba(46, 47, 66, 0.16),0px 2px 1px rgba(46, 47, 66, 0.08);
+box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
+                0px 1px 1px rgba(46, 47, 66, 0.16),
+                0px 2px 1px rgba(46, 47, 66, 0.08);
 }
 .portfolio-name {
     color: #2E2F42;
@@ -377,8 +379,6 @@ overflow: hidden;
 position: absolute;
 inset: 0;
 background-color: #4D5AE5;
-width: 360px;
-height: 300px;
 color: #F4F4FD;
 transform: translateY(100%);
 transition: transform 1.5s;
