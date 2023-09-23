@@ -135,7 +135,7 @@ display: flex;
 }
 .current {
     position: relative;
-    color: #2E2F42;
+    color: #404bbf;
 }
 .nav-item.current::after {
     content: "";
